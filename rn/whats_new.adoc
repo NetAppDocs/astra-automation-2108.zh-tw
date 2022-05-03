@@ -1,0 +1,62 @@
+---
+sidebar: sidebar 
+permalink: rn/whats_new.html 
+keywords:  
+summary:  
+---
+= Astra Control REST API的新功能
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp會定期更新Astra Control REST API、為您帶來新功能、增強功能和錯誤修復。
+
+
+
+== 2021年8月5日（21.08）
+
+此版本包括引進新的Astra部署模式、以及REST API的重大擴充。
+
+
+
+=== Astra Control Center部署模式
+
+除了以公有雲端服務形式提供的現有Astra Control Service產品之外、此版本也包括Astra Control Center內部部署模式。您可以在站台上安裝Astra Control Center、以管理本機Kubernetes環境。這兩種Astra Control部署模式共用相同的REST API、但文件中所指出的細微差異較小。
+
+
+
+=== 擴充REST資源類型
+
+透過Astra Control REST API存取的資源數量已大幅增加、許多新資源為內部部署的Astra Control Center產品提供了基礎。新資源包括：ASUP、權利、功能、授權、設定、 訂購、儲存庫、雲端、叢集、託管叢集、 儲存後端與儲存類別。請參閱 link:../endpoints/resources.html["資源"] 以取得更多資訊。
+
+
+
+=== 支援Astra部署的其他端點
+
+除了擴充的REST資源之外、還有其他幾個新的API端點可供支援Astra Control部署。
+
+OpenAPI支援:: OpenAPI端點可讓您存取目前的OpenAPI Json文件及其他相關資源。
+OpenMetrics支援:: OpenMetrics端點可透過OpenMetrics資源存取帳戶指標。
+
+
+
+
+== 2021年4月15日（21.04）
+
+此版本包含下列新功能與增強功能。
+
+
+
+=== 介紹REST API
+
+Astra Control REST API可搭配Astra Control Service產品使用。這是以REST技術和目前最佳實務做法為基礎所建立。API為Astra部署的自動化提供基礎、並提供下列功能與優勢。
+
+資源:: 共有14種REST資源類型可供使用。
+API權杖存取:: 您可透過Astra網路使用者介面產生的API存取權杖來存取REST API。API權杖可提供對API的安全存取。
+支援集合:: 有一組豐富的查詢參數可用來存取資源集合。部分支援的作業包括篩選、排序及分頁。
+
