@@ -319,8 +319,6 @@
   <block id="6cb8b958a36383ed1b7bacc626d0a5dd" category="section-title">資源狀態</block>
   <block id="b7aa38141b9dd3f7e78cd09e7f60ce0c" category="paragraph">所選資源是一種「最大」值、用於協調生命週期轉換和控制存取。</block>
   <block id="94fd56b370187429c8fbd312f50f5c1b" category="paragraph">用於透過REST API存取資源執行個體或集合的URL一般結構由數個值組成。此結構反映基礎物件模型和系統設計。</block>
-  <block id="04af7c5cae35340b12ac2ff18f2993fb" category="section-title">URL格式</block>
-  <block id="3e0ab85384ebe4f846202e772b341dc5" category="paragraph">URL格式及範例如下所示。</block>
   <block id="6e84a7dae5ae82dd22a0ec6f456dbc8d" category="section-title">帳戶為root</block>
   <block id="e166d573b25ce4160633b91145d1eae5" category="paragraph">每個REST端點的資源路徑根目錄為Astra帳戶。因此URL中的所有路徑都以「/ACE/{ACUID_ID}」開頭、其中「ACU_ID」是帳戶的唯一UUIDv4值。內部架構反映出所有資源存取都以特定帳戶為基礎的設計。</block>
   <block id="faf17fd8415851163c880ffe0eee8b37" category="section-title">端點資源類別</block>
@@ -758,4 +756,6 @@
   <block id="879ad4bddb82a977b90643c7b33a4e49" category="sidebar">從備份複製應用程式</block>
   <block id="dc299aaf3e84eb3627f50d2d2484cf17" category="sidebar">從備份還原應用程式</block>
   <block id="999e0dcec594b55111b1ede61b4409f5" category="sidebar">列出通知</block>
+  <block id="bbe48fb854ea022537208eeeff822f91" category="paragraph-title">關於這項工作</block>
+  <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完成後</block>
 </blocks>
