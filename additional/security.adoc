@@ -47,7 +47,7 @@ NOTE: 所有HTTP網路流量均使用傳輸層安全性（TLS）標準加以保�
 .步驟
 . 使用您的帳戶認證登入Astra。
 +
-存取Astra Control Service的下列站台： https://astra.netapp.io/["https://astra.netapp.io"^]
+存取Astra Control Service的下列站台： https://["https://astra.netapp.io"^]
 
 . 按一下頁面右上角的圖示、然後選取「* API access*（* API存取*）」。
 . 選取您要撤銷的權杖。

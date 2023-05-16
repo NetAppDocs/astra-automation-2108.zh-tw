@@ -398,7 +398,6 @@
   <block id="16bd6f56e0279353c2bf47e3b1d13c41" category="cell">指出中繼資料物件是否應傳回資源總數。</block>
   <block id="2974f783f17d54a41f4040c8daa90545" category="section-title">HTTP 狀態代碼</block>
   <block id="175b29f6f8dd1aa8a166427b6bcd061c" category="paragraph">Astra Control REST API使用的HTTP狀態代碼如下所述。</block>
-  <block id="ef69df9e80d5e1591d22bfe189aa737e" category="admonition">Astra Control REST API也使用*問題詳細資料做為HTTP API*標準。請參閱 <block ref="d9c154af7dec160f41ead610ccb970e9" category="inline-link-macro-rx"></block> 以取得更多資訊。</block>
   <block id="ca0dbad92a874b2f69b549293387925e" category="cell">程式碼</block>
   <block id="7277de5f2ed6f17c61f1f25594591a82" category="cell">意義</block>
   <block id="3644a684f98ea8fe223c713b77189a77" category="cell">200</block>
@@ -758,4 +757,5 @@
   <block id="999e0dcec594b55111b1ede61b4409f5" category="sidebar">列出通知</block>
   <block id="bbe48fb854ea022537208eeeff822f91" category="paragraph-title">關於這項工作</block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完成後</block>
+  <block id="d9a8eedd670f58ed76d5ae881e6d4469" category="admonition">Astra Control REST API也使用*問題詳細資料做為HTTP API*標準。請參閱 <block ref="e560597744bc7b2711ae89c683c4035f" category="inline-link-macro-rx"></block> 以取得更多資訊。</block>
 </blocks>
