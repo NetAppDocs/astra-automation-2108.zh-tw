@@ -20,15 +20,15 @@ summary:
 
 == Astra
 
-* https://["Astra Control Center 2108文件"^]
+* https://docs.netapp.com/us-en/astra-control-center-2108/["Astra Control Center 2108文件"^]
 +
 部署在客戶內部環境中的Astra Control Center軟體文件。
 
-* https://["Astra Control Service文件"^]
+* https://docs.netapp.com/us-en/astra-control-service/["Astra Control Service文件"^]
 +
 適用於公有雲的Astra Control Service軟體文件。
 
-* https://["Astra Trident文件"^]
+* https://docs.netapp.com/us-en/trident/["Astra Trident文件"^]
 +
 由NetApp維護的Astra Trident開放原始碼儲存Orchestrator文件。
 
@@ -38,15 +38,15 @@ summary:
 
 == NetApp雲端資源
 
-* https://["NetApp雲端解決方案"^]
+* https://cloud.netapp.com/["NetApp雲端解決方案"^]
 +
 NetApp雲端解決方案的中央網站。
 
-* https://["NetApp Cloud Central主控台"^]
+* https://services.cloud.netapp.com/redirect-to-login?startOnSignup=false["NetApp Cloud Central主控台"^]
 +
 使用登入功能的NetApp Cloud Central服務主控台。
 
-* https://["NetApp支援"^]
+* https://mysupport.netapp.com/["NetApp支援"^]
 +
 存取疑難排解工具、文件及技術支援協助。
 
@@ -56,15 +56,15 @@ NetApp雲端解決方案的中央網站。
 
 == REST概念與雲端技術
 
-* 博士 https://["論文"^] 作者：Roy Fielding
+* 博士 https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm["論文"^] 作者：Roy Fielding
 +
 本出版品介紹並建立REST應用程式開發模式。
 
-* https://["驗證0"^]
+* https://auth0.com/["驗證0"^]
 +
 這是Astra服務用於網路存取的驗證與授權平台服務。
 
-* https://["RFC編輯器"^]
+* https://www.rfc-editor.org/["RFC編輯器"^]
 +
 Web和網際網路標準的權威來源、以獨特編號的RFC文件集合形式加以維護。
 
